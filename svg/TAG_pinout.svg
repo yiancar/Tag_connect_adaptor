@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="50.486149mm"
+   height="23.171711mm"
+   viewBox="0 0 50.486149 23.171711"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="TAG_pinout.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="165.89983"
+     inkscape:cy="-31.036496"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g33"
+     showgrid="true"
+     inkscape:window-width="1536"
+     inkscape:window-height="801"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     borderlayer="true">
+    <inkscape:grid
+       id="grid11"
+       units="mm"
+       type="xygrid"
+       empspacing="1"
+       spacingy="2.54"
+       spacingx="2.54"
+       originx="-1.6029734"
+       originy="-74.945855" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g17"
+     sodipodi:insensitive="true"
+     inkscape:groupmode="layer"
+     inkscape:label="[fixed] BG"
+     transform="translate(-1.6029734,-1.8824369)">
+    <rect
+       id="rect15"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       height="100"
+       width="100"
+       y="0"
+       x="0" />
+  </g>
+  <g
+     id="g19"
+     inkscape:groupmode="layer"
+     inkscape:label="F.Cu-disabled"
+     style="display:inline"
+     transform="translate(-1.6029734,-1.8824369)" />
+  <g
+     id="g21"
+     inkscape:groupmode="layer"
+     inkscape:label="B.Cu-disabled"
+     transform="translate(-1.6029734,-1.8824369)" />
+  <g
+     id="g23"
+     inkscape:groupmode="layer"
+     inkscape:label="B.Adhes-disabled"
+     transform="translate(-1.6029734,-1.8824369)" />
+  <g
+     id="g25"
+     inkscape:groupmode="layer"
+     inkscape:label="F.Adhes-disabled"
+     transform="translate(-1.6029734,-1.8824369)" />
+  <g
+     id="g27"
+     inkscape:groupmode="layer"
+     inkscape:label="B.Paste-disabled"
+     transform="translate(-1.6029734,-1.8824369)" />
+  <g
+     id="g29"
+     inkscape:groupmode="layer"
+     inkscape:label="F.Paste-disabled"
+     style="display:none"
+     transform="translate(-1.6029734,-1.8824369)" />
+  <g
+     id="g31"
+     inkscape:groupmode="layer"
+     inkscape:label="B.SilkS-disabled"
+     style="display:inline"
+     transform="translate(-1.6029734,-1.8824369)" />
+  <g
+     id="g33"
+     inkscape:groupmode="layer"
+     inkscape:label="F.SilkS"
+     style="display:inline"
+     transform="translate(-1.6029734,-1.8824369)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1.4617245"
+       y="3.8874824"
+       id="text88-1"><tspan
+         sodipodi:role="line"
+         x="1.4617245"
+         y="3.8874824"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;stroke-width:0.26458332"
+         id="tspan94-6">+----------+-----------+</tspan><tspan
+         sodipodi:role="line"
+         x="1.4617245"
+         y="7.4152603"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;stroke-width:0.26458332"
+         id="tspan162">| TAG ISP  |  TAG SWD  |</tspan><tspan
+         sodipodi:role="line"
+         x="1.4617245"
+         y="10.943038"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;stroke-width:0.26458332"
+         id="tspan160">+----------+-----------+</tspan><tspan
+         sodipodi:role="line"
+         x="1.4617245"
+         y="14.470816"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;stroke-width:0.26458332"
+         id="tspan164">|MISO..VCC |VCC..SWDCLK|</tspan><tspan
+         sodipodi:role="line"
+         x="1.4617245"
+         y="17.998592"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;stroke-width:0.26458332"
+         id="tspan168">| SCK..MOSI|GND..SWDIO |</tspan><tspan
+         sodipodi:role="line"
+         x="1.4617245"
+         y="21.526371"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;stroke-width:0.26458332"
+         id="tspan152"
+         dx="0 -5.6726286e-09">| RST..GND |RST..SWO   |</tspan><tspan
+         sodipodi:role="line"
+         x="1.4617245"
+         y="25.054148"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;stroke-width:0.26458332"
+         dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -5.6726286e-09"
+         id="tspan156">+----------+-----------+</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot172"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion174"><rect
+           id="rect176"
+           width="144"
+           height="48"
+           x="76.800003"
+           y="99.552757" /></flowRegion><flowPara
+         id="flowPara178"></flowPara></flowRoot>  </g>
+  <g
+     id="g35"
+     inkscape:groupmode="layer"
+     inkscape:label="B.Mask-disabled"
+     transform="translate(-1.6029734,-1.8824369)" />
+  <g
+     id="g37"
+     inkscape:groupmode="layer"
+     inkscape:label="F.Mask-disabled"
+     transform="translate(-1.6029734,-1.8824369)" />
+  <g
+     id="g39"
+     inkscape:groupmode="layer"
+     inkscape:label="Dwgs.User-disabled"
+     transform="translate(-1.6029734,-1.8824369)" />
+  <g
+     id="g41"
+     inkscape:groupmode="layer"
+     inkscape:label="Cmts.User-disabled"
+     transform="translate(-1.6029734,-1.8824369)" />
+  <g
+     id="g43"
+     inkscape:groupmode="layer"
+     inkscape:label="Eco1.User-disabled"
+     transform="translate(-1.6029734,-1.8824369)" />
+  <g
+     id="g45"
+     inkscape:groupmode="layer"
+     inkscape:label="Eco2.User-disabled"
+     transform="translate(-1.6029734,-1.8824369)" />
+  <g
+     id="g47"
+     inkscape:groupmode="layer"
+     inkscape:label="Edge.Cuts"
+     transform="translate(-1.6029734,-1.8824369)" />
+  <g
+     id="g49"
+     inkscape:groupmode="layer"
+     inkscape:label="Margin-disabled"
+     transform="translate(-1.6029734,-1.8824369)" />
+  <g
+     id="g51"
+     inkscape:groupmode="layer"
+     inkscape:label="B.CrtYd-disabled"
+     transform="translate(-1.6029734,-1.8824369)" />
+  <g
+     id="g53"
+     inkscape:groupmode="layer"
+     inkscape:label="F.CrtYd-disabled"
+     transform="translate(-1.6029734,-1.8824369)" />
+  <g
+     id="g55"
+     inkscape:groupmode="layer"
+     inkscape:label="B.Fab-disabled"
+     transform="translate(-1.6029734,-1.8824369)" />
+  <g
+     id="g57"
+     inkscape:groupmode="layer"
+     inkscape:label="F.Fab-disabled"
+     transform="translate(-1.6029734,-1.8824369)" />
+  <g
+     id="g59"
+     inkscape:groupmode="layer"
+     inkscape:label="Drill"
+     transform="translate(-1.6029734,-1.8824369)" />
+</svg>

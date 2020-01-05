@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="50.486149mm"
+   height="30.227266mm"
+   viewBox="0 0 50.486149 30.227266"
+   version="1.1"
+   id="svg192"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Programer_pinout.svg">
+  <defs
+     id="defs186" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.28"
+     inkscape:cx="-203.94506"
+     inkscape:cy="177.1613"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g217"
+     showgrid="true"
+     inkscape:window-width="1536"
+     inkscape:window-height="801"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     borderlayer="true">
+    <inkscape:grid
+       id="grid195"
+       units="mm"
+       type="xygrid"
+       empspacing="1"
+       spacingy="2.54"
+       spacingx="2.54"
+       originx="-10.301248"
+       originy="-17.497779" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata189">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g201"
+     sodipodi:insensitive="true"
+     inkscape:groupmode="layer"
+     inkscape:label="[fixed] BG"
+     transform="translate(-10.301249,-52.274953)">
+    <rect
+       id="rect199"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       height="100"
+       width="100"
+       y="0"
+       x="0" />
+  </g>
+  <g
+     id="g203"
+     inkscape:groupmode="layer"
+     inkscape:label="F.Cu-disabled"
+     transform="translate(-10.301249,-52.274953)" />
+  <g
+     id="g205"
+     inkscape:groupmode="layer"
+     inkscape:label="B.Cu-disabled"
+     transform="translate(-10.301249,-52.274953)" />
+  <g
+     id="g207"
+     inkscape:groupmode="layer"
+     inkscape:label="B.Adhes-disabled"
+     transform="translate(-10.301249,-52.274953)" />
+  <g
+     id="g209"
+     inkscape:groupmode="layer"
+     inkscape:label="F.Adhes-disabled"
+     transform="translate(-10.301249,-52.274953)" />
+  <g
+     id="g211"
+     inkscape:groupmode="layer"
+     inkscape:label="B.Paste-disabled"
+     transform="translate(-10.301249,-52.274953)" />
+  <g
+     id="g213"
+     inkscape:groupmode="layer"
+     inkscape:label="F.Paste-disabled"
+     transform="translate(-10.301249,-52.274953)" />
+  <g
+     id="g215"
+     inkscape:groupmode="layer"
+     inkscape:label="B.SilkS-disabled"
+     transform="translate(-10.301249,-52.274953)" />
+  <g
+     id="g217"
+     inkscape:groupmode="layer"
+     inkscape:label="F.SilkS"
+     style="display:inline"
+     transform="translate(-10.301249,-52.274953)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="10.16"
+       y="54.279999"
+       id="text284"><tspan
+         sodipodi:role="line"
+         id="tspan282"
+         x="10.16"
+         y="54.279999"
+         style="stroke-width:0.26458332">+----------+-----------+</tspan><tspan
+         sodipodi:role="line"
+         x="10.16"
+         y="57.807777"
+         style="stroke-width:0.26458332"
+         id="tspan286">|  USBASP  |  ST-LINK  |</tspan><tspan
+         sodipodi:role="line"
+         x="10.16"
+         y="61.335556"
+         style="stroke-width:0.26458332"
+         id="tspan298">+----------+-----------+</tspan><tspan
+         sodipodi:role="line"
+         x="10.16"
+         y="64.863335"
+         style="stroke-width:0.26458332"
+         id="tspan288">|MOSI..VCC | RST..SWDIO|</tspan><tspan
+         sodipodi:role="line"
+         x="10.16"
+         y="68.391113"
+         style="stroke-width:0.26458332"
+         id="tspan302">|  NC..GND | GND..GND  |</tspan><tspan
+         sodipodi:role="line"
+         x="10.16"
+         y="71.918884"
+         style="stroke-width:0.26458332"
+         id="tspan292">| RST..GND | SWO..SWCLK|</tspan><tspan
+         sodipodi:role="line"
+         x="10.16"
+         y="75.446663"
+         style="stroke-width:0.26458332"
+         id="tspan294">| SCK..GND |3.3V..3.3V |</tspan><tspan
+         sodipodi:role="line"
+         x="10.16"
+         y="78.974442"
+         style="stroke-width:0.26458332"
+         id="tspan296">|MISO..GND |5.0V..5.0V |</tspan><tspan
+         sodipodi:role="line"
+         x="10.16"
+         y="82.50222"
+         style="stroke-width:0.26458332"
+         id="tspan300">+----------+-----------+</tspan></text>
+  </g>
+  <g
+     id="g219"
+     inkscape:groupmode="layer"
+     inkscape:label="B.Mask-disabled"
+     transform="translate(-10.301249,-52.274953)" />
+  <g
+     id="g221"
+     inkscape:groupmode="layer"
+     inkscape:label="F.Mask-disabled"
+     transform="translate(-10.301249,-52.274953)" />
+  <g
+     id="g223"
+     inkscape:groupmode="layer"
+     inkscape:label="Dwgs.User-disabled"
+     transform="translate(-10.301249,-52.274953)" />
+  <g
+     id="g225"
+     inkscape:groupmode="layer"
+     inkscape:label="Cmts.User-disabled"
+     transform="translate(-10.301249,-52.274953)" />
+  <g
+     id="g227"
+     inkscape:groupmode="layer"
+     inkscape:label="Eco1.User-disabled"
+     transform="translate(-10.301249,-52.274953)" />
+  <g
+     id="g229"
+     inkscape:groupmode="layer"
+     inkscape:label="Eco2.User-disabled"
+     transform="translate(-10.301249,-52.274953)" />
+  <g
+     id="g231"
+     inkscape:groupmode="layer"
+     inkscape:label="Edge.Cuts"
+     transform="translate(-10.301249,-52.274953)" />
+  <g
+     id="g233"
+     inkscape:groupmode="layer"
+     inkscape:label="Margin-disabled"
+     transform="translate(-10.301249,-52.274953)" />
+  <g
+     id="g235"
+     inkscape:groupmode="layer"
+     inkscape:label="B.CrtYd-disabled"
+     transform="translate(-10.301249,-52.274953)" />
+  <g
+     id="g237"
+     inkscape:groupmode="layer"
+     inkscape:label="F.CrtYd-disabled"
+     transform="translate(-10.301249,-52.274953)" />
+  <g
+     id="g239"
+     inkscape:groupmode="layer"
+     inkscape:label="B.Fab-disabled"
+     transform="translate(-10.301249,-52.274953)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot270"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion272"><rect
+           id="rect274"
+           width="0"
+           height="48"
+           x="-1008"
+           y="-966.04724" /></flowRegion><flowPara
+         id="flowPara276">`</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="0"
+       y="49.200001"
+       id="text280"><tspan
+         sodipodi:role="line"
+         id="tspan278"
+         x="0"
+         y="51.852482"
+         style="stroke-width:0.26458332" /></text>
+  </g>
+  <g
+     id="g241"
+     inkscape:groupmode="layer"
+     inkscape:label="F.Fab-disabled"
+     transform="translate(-10.301249,-52.274953)" />
+  <g
+     id="g243"
+     inkscape:groupmode="layer"
+     inkscape:label="Drill"
+     transform="translate(-10.301249,-52.274953)" />
+</svg>

@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="65.293167mm"
+   height="33.755043mm"
+   viewBox="0 0 65.293167 33.755043"
+   version="1.1"
+   id="svg312"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="c232hm_table.svg">
+  <defs
+     id="defs306" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.5927917"
+     inkscape:cx="92.442523"
+     inkscape:cy="116.97637"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g337"
+     showgrid="true"
+     inkscape:window-width="1536"
+     inkscape:window-height="801"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     borderlayer="true">
+    <inkscape:grid
+       id="grid315"
+       units="mm"
+       type="xygrid"
+       empspacing="1"
+       spacingy="2.54"
+       spacingx="2.54"
+       originx="-25.541248"
+       originy="-19.05" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata309">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g321"
+     sodipodi:insensitive="true"
+     inkscape:groupmode="layer"
+     inkscape:label="[fixed] BG"
+     transform="translate(-25.541249,-47.194955)">
+    <rect
+       id="rect319"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       height="100"
+       width="100"
+       y="0"
+       x="0" />
+  </g>
+  <g
+     id="g323"
+     inkscape:groupmode="layer"
+     inkscape:label="F.Cu-disabled"
+     transform="translate(-25.541249,-47.194955)" />
+  <g
+     id="g325"
+     inkscape:groupmode="layer"
+     inkscape:label="B.Cu-disabled"
+     transform="translate(-25.541249,-47.194955)" />
+  <g
+     id="g327"
+     inkscape:groupmode="layer"
+     inkscape:label="B.Adhes-disabled"
+     transform="translate(-25.541249,-47.194955)" />
+  <g
+     id="g329"
+     inkscape:groupmode="layer"
+     inkscape:label="F.Adhes-disabled"
+     transform="translate(-25.541249,-47.194955)" />
+  <g
+     id="g331"
+     inkscape:groupmode="layer"
+     inkscape:label="B.Paste-disabled"
+     transform="translate(-25.541249,-47.194955)" />
+  <g
+     id="g333"
+     inkscape:groupmode="layer"
+     inkscape:label="F.Paste-disabled"
+     transform="translate(-25.541249,-47.194955)" />
+  <g
+     id="g335"
+     inkscape:groupmode="layer"
+     inkscape:label="B.SilkS-disabled"
+     transform="translate(-25.541249,-47.194955)" />
+  <g
+     id="g337"
+     inkscape:groupmode="layer"
+     inkscape:label="F.SilkS"
+     transform="translate(-25.541249,-47.194955)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="25.4"
+       y="49.200001"
+       id="text392"><tspan
+         sodipodi:role="line"
+         id="tspan390"
+         x="25.4"
+         y="49.200001"
+         style="stroke-width:0.26458332">+------+----+---+---+----+----+</tspan><tspan
+         sodipodi:role="line"
+         x="25.4"
+         y="52.727779"
+         style="stroke-width:0.26458332"
+         id="tspan416">|C232HM|JTAG|SPI|I2C|ISP |UART|</tspan><tspan
+         sodipodi:role="line"
+         x="25.4"
+         y="56.255554"
+         style="stroke-width:0.26458332"
+         id="tspan394">+------+----+---+---+----+----+</tspan><tspan
+         sodipodi:role="line"
+         x="25.4"
+         y="59.783333"
+         style="stroke-width:0.26458332"
+         id="tspan412">|RED   |VCC |VCC|VCC|VCC |VCC |</tspan><tspan
+         sodipodi:role="line"
+         x="25.4"
+         y="63.311111"
+         style="stroke-width:0.26458332"
+         id="tspan398">|ORANGE|TCK |SK |SCL|SCK |TXD |</tspan><tspan
+         sodipodi:role="line"
+         x="25.4"
+         y="66.83889"
+         style="stroke-width:0.26458332"
+         id="tspan400">|YELLOW|TDI |DO |SDA|MOSI|RXD |</tspan><tspan
+         sodipodi:role="line"
+         x="25.4"
+         y="70.366669"
+         style="stroke-width:0.26458332"
+         id="tspan402">|GREEN |TDO |DI |SDA|MISO|!RTS|</tspan><tspan
+         sodipodi:role="line"
+         x="25.4"
+         y="73.894447"
+         style="stroke-width:0.26458332"
+         id="tspan404">|BROWN |TMS |CS |N/A|RST |!CTS|</tspan><tspan
+         sodipodi:role="line"
+         x="25.4"
+         y="77.422226"
+         style="stroke-width:0.26458332"
+         id="tspan408">|BLACK |GND |GND|GND|GND |GND |</tspan><tspan
+         sodipodi:role="line"
+         x="25.4"
+         y="80.949997"
+         style="stroke-width:0.26458332"
+         id="tspan410">+------+----+---+---+----+----+</tspan><tspan
+         sodipodi:role="line"
+         x="25.4"
+         y="84.477776"
+         style="stroke-width:0.26458332"
+         id="tspan406" /></text>
+  </g>
+  <g
+     id="g339"
+     inkscape:groupmode="layer"
+     inkscape:label="B.Mask-disabled"
+     transform="translate(-25.541249,-47.194955)" />
+  <g
+     id="g341"
+     inkscape:groupmode="layer"
+     inkscape:label="F.Mask-disabled"
+     transform="translate(-25.541249,-47.194955)" />
+  <g
+     id="g343"
+     inkscape:groupmode="layer"
+     inkscape:label="Dwgs.User-disabled"
+     transform="translate(-25.541249,-47.194955)" />
+  <g
+     id="g345"
+     inkscape:groupmode="layer"
+     inkscape:label="Cmts.User-disabled"
+     transform="translate(-25.541249,-47.194955)" />
+  <g
+     id="g347"
+     inkscape:groupmode="layer"
+     inkscape:label="Eco1.User-disabled"
+     transform="translate(-25.541249,-47.194955)" />
+  <g
+     id="g349"
+     inkscape:groupmode="layer"
+     inkscape:label="Eco2.User-disabled"
+     transform="translate(-25.541249,-47.194955)" />
+  <g
+     id="g351"
+     inkscape:groupmode="layer"
+     inkscape:label="Edge.Cuts"
+     transform="translate(-25.541249,-47.194955)" />
+  <g
+     id="g353"
+     inkscape:groupmode="layer"
+     inkscape:label="Margin-disabled"
+     transform="translate(-25.541249,-47.194955)" />
+  <g
+     id="g355"
+     inkscape:groupmode="layer"
+     inkscape:label="B.CrtYd-disabled"
+     transform="translate(-25.541249,-47.194955)" />
+  <g
+     id="g357"
+     inkscape:groupmode="layer"
+     inkscape:label="F.CrtYd-disabled"
+     transform="translate(-25.541249,-47.194955)" />
+  <g
+     id="g359"
+     inkscape:groupmode="layer"
+     inkscape:label="B.Fab-disabled"
+     transform="translate(-25.541249,-47.194955)" />
+  <g
+     id="g361"
+     inkscape:groupmode="layer"
+     inkscape:label="F.Fab-disabled"
+     transform="translate(-25.541249,-47.194955)" />
+  <g
+     id="g363"
+     inkscape:groupmode="layer"
+     inkscape:label="Drill"
+     transform="translate(-25.541249,-47.194955)" />
+</svg>

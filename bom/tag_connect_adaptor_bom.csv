@@ -1,0 +1,7 @@
+Reference, Quantity, Value, Footprint,Source Link
+J1 ,1,INPUT,Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical,https://lcsc.com/product-detail/Pin-Header-Female-Header_BOOMELE-Boom-Precision-Elec-C37208_C37208.html
+J2 ,1,OUTPUT,Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical,https://lcsc.com/product-detail/Pin-Header-Female-Header_BOOMELE-Boom-Precision-Elec-C37208_C37208.html
+J3 ,1,ISP-AVR,Connector_IDC:IDC-Header_2x05_P2.54mm_Horizontal,https://lcsc.com/product-detail/IDC-Connectors_BOOMELE-Boom-Precision-Elec-C9140_C9140.html
+J4 ,1,ST-LINK CLONE,Connector_IDC:IDC-Header_2x05_P2.54mm_Horizontal,https://lcsc.com/product-detail/IDC-Connectors_BOOMELE-Boom-Precision-Elec-C9140_C9140.html
+J5 ,1,RJ25,Connector_RJ:RJ12_Amphenol_54601,https://lcsc.com/product-detail/Ethernet-Connectors-Modular-Connectors-RJ45-RJ11_TE-Connectivity_5555163-1_TE-Connectivity-5555163-1_C305982.html
+SW1 ,1,BYPASS,Button_Switch_THT:SW_DIP_SPSTx06_Piano_10.8x16.8mm_W7.62mm_P2.54mm,https://lcsc.com/product-detail/DIP-Switches_XKB-Enterprise-DPL-06RP_C319067.html
